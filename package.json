@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^9.8.6",
     "css-loader": "^4.2.1",
+    "postcss-loader": "^3.0.0",
     "style-loader": "^1.2.1",
+    "tailwindcss": "^1.7.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }

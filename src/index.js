@@ -5,7 +5,7 @@ function component() {
   const element = document.createElement("div");
 
   element.innerHTML = App();
-  element.classList.add("red");
+  element.classList.add("text-red-600");
 
   return element;
 }
